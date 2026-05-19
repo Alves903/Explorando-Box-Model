@@ -12,7 +12,6 @@ Projeto desenvolvido para praticar o Box Model no CSS, trabalhando propriedades 
 - Margin
 - Border
 - Background-color
-- Centralização com Flexbox
 - Inspecionar elementos no navegador
 
 ## 🎨 Funcionalidades
